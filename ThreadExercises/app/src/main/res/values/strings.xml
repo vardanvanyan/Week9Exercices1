@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThreadExercises</string>
+    <string name="textView_hint">ImageUrl</string>
+    <string name="download_image">Download Image</string>
+    <string name="download">Download complete</string>
+
+    <string-array name="imageName">
+        <item>Image1</item>
+        <item>Image2</item>
+        <item>Image3</item>
+        <item>Image4</item>
+        <item>Image5</item>
+        <item>Image6</item>
+        <item>Image7</item>
+    </string-array>
+</resources>

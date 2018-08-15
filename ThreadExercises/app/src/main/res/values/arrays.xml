@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imageUrls">
+       <item>https://www.w3schools.com/w3images/fjords.jpg</item>
+       <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFARN26QQ6qKFnKYFpEpZDR7W9-PuXap2gSmCFdAw3wt6toUTJhQ</item>
+       <item>https://res.cloudinary.com/css/image/upload/v1486923677/sample.jpg</item>
+       <item>http://pwtthemes.com/demo/hannari/wp-content/uploads/2013/03/unicorn-wallpaper.jpg</item>
+       <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-fjqTHWrNpg6S8k34ZUQgH2GKUrpPMkwEWI41ykc1d0VagO8S</item>
+       <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6otfl5HmcfL6UAXpJTkGsAE_ImAoVpIAmlPAW9xrKzDzdm35K</item>
+       <item>http://www.wallpaperbetter.com/wallpaper/219/389/200/beautiful-butterfly-on-orange-flower-1080P-wallpaper-middle-size.jpg</item>
+    </string-array>
+</resources>
